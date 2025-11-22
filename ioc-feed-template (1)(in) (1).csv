@@ -1,3 +1,4 @@
 ﻿Name,Value,Type,Confidence,Severity,Product,Comment
 IOC-4,173.255.221.189,IP,high,high,AV,Malicious 
-IOC-5,173.255.221.189 ,IP,high,high,AV,Malicious 
+IOC-5,173.255.221.189,IP,high,high,AV,Malicious 
+
