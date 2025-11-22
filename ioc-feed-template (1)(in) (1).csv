@@ -145,3 +145,4 @@ IOC-145,128.203.202.236,IP,high,high,AV,Malicious
 IOC-146,45.33.109.8,IP,high,high,AV,Malicious 
 IOC-148,20.65.193.254,IP,high,high,AV,Malicious 
 IOC-149,40.124.185.25,IP,high,high,AV,Malicious 
+IOC-150,162.243.121.77,IP,high,high,AV,Malicious
